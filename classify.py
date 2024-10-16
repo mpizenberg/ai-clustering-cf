@@ -13,7 +13,7 @@ def main():
     data = pd.read_json('aggregated_catalyst_data.json')
 
     # Combine title and problem fields
-    data['combined_text'] = data['title'] + " " + data['problem']
+    data['combined_text'] = data['title'] + ". " + data['problem']
 
     # Load pre-trained SBERT model
     # model = SentenceTransformer('all-MiniLM-L6-v2')
