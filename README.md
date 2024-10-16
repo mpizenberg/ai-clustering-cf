@@ -3,7 +3,7 @@ in order to split the reviewing work load.
 
 This was made possible thanks to the efforts and discussions with @theeldermillenial.
 Please reference this attribution if this repository is useful to you,
-and possible also support their multiple projects.
+and also support their projects.
 
 
 ## Initialization
