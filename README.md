@@ -1,10 +1,12 @@
 This repository aims at helping with clustering of Catalyst proposals,
 in order to split the reviewing work load.
 
-This was made possible thanks to the efforts and discussions with @theeldermillenial.
+This was made possible thanks to the efforts and discussions with @theeldermillenial ([GitHub][elder-gh], [twitter][elder-twitter]).
 Please reference this attribution if this repository is useful to you,
 and also support their projects.
 
+[elder-gh]: https://github.com/theeldermillenial
+[elder-twitter]: https://x.com/ElderM
 
 ## Initialization
 
