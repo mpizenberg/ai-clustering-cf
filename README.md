@@ -1,4 +1,12 @@
-# Initialization
+This repository aims at helping with clustering of Catalyst proposals,
+in order to split the reviewing work load.
+
+This was made possible thanks to the efforts and discussions with @theeldermillenial.
+Please reference this attribution if this repository is useful to you,
+and possible also support their multiple projects.
+
+
+## Initialization
 
 Let’s first install `uv` if you don’t have it yet on your computer.
 It’s the best package manager for python.
