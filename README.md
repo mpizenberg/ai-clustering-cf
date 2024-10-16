@@ -31,6 +31,13 @@ uv run process_proposals.py
 uv run classify.py
 ```
 
+TODO: improve with Elder Millenial feedback:
+
+1. For minimalist open source embedding models, I would recommend nomic
+2. I would highly recommend using a hierarchical clustering strategy, especially when you don't know the number of clusters you have (e.g. hdbscan)
+3. I think that UMAP will probably give you better results than tsne. Depending on what you're interested in doing,  you might want to switch to PCA.
+4. High dimensional clustering can be frought with all kinds of issues, especially if you're not careful about selecting and parameterizing your distance function well. I'd recommend doing dimension reduction and then clustering.
+
 ## Alternative approach: prompting an LLM directly
 
 First, let’s create a minimal json file containing only the `id`, `title`, and `problem` fields.
